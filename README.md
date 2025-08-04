@@ -1,5 +1,6 @@
 # Vehicle
 The whole system works with ESP-NOW. Mac addresses are hard-coded. Upon powering each device, they are looking for the specific MAC address.
+
 <img width="807" height="623" alt="obraz" src="https://github.com/user-attachments/assets/93353d76-0590-4f56-9a33-6626f6a8ba7b" />
 
 
